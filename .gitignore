@@ -1,0 +1,7 @@
+
+.vs/JapaneseOCR/v16/.suo
+.vs/JapaneseOCR/DesignTimeBuild/.dtbcache.v2
+*.dll
+JapaneseOCR/obj/
+JapaneseOCR/bin/
+JapaneseOCR/JapaneseOCR.csproj.user
